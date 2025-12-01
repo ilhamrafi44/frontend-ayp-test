@@ -46,7 +46,7 @@ export default function LoginPage() {
         </div>
         <div className="chips-row">
           <span className="chip">JWT Secured</span>
-          <span className="chip">Gen-Z theme</span>
+          <span className="chip">Modern theme</span>
         </div>
       </div>
 

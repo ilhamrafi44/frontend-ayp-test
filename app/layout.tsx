@@ -17,7 +17,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <div className="app-logo-mark" />
               <div>
                 <div className="app-logo-text-main">AYP Portal</div>
-                <div className="app-logo-text-sub">Gen-Z Employee Console</div>
+                <div className="app-logo-text-sub">Employee Console</div>
               </div>
             </div>
             <div className="chips-row">
