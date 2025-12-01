@@ -158,6 +158,6 @@ All logic and final decisions were reviewed, adapted, and verified manually.
 
 ## 9. Author
 
-**Muhammad Ilham Rafiannandha**  
-Take Home Technical Test – AYP Group Recruitment  
+**Muhammad Ilham Rafiannandha**</br>
+Take Home Technical Test – AYP Group Recruitment</br>
 Frontend stack: Next.js 16 + TypeScript. Backend counterpart: Laravel (develop separately).
